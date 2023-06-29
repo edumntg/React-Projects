@@ -1,0 +1,23 @@
+.status {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    font-size: 68px;
+    font-weight: 500;
+  }
+  
+  .board {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+    z-index: 999;
+  }
+  
+  .keyboard {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+  }

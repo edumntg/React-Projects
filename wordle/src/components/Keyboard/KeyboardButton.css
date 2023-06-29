@@ -1,0 +1,23 @@
+.keyboardButton-normal {
+    width: 60px;
+    height: 80px;
+    border-radius: 5px;
+    background-color: rgb(219, 219, 219);
+    color: black;
+    border: none;
+    font-size: 30px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.keyboardButton-special {
+    width: 120px;
+    height: 60px;
+    border-radius: 5px;
+    background-color: rgb(219, 219, 219);
+    color: black;
+    border: none;
+    font-size: 30px;
+    font-weight: 700;
+    cursor: pointer;
+}

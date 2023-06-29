@@ -1,0 +1,41 @@
+.row {
+    position: relative;
+}
+
+.slot-empty {
+    background: #fff;
+}
+
+.slot-green {
+    background: green;
+    color: white;
+    text-transform: uppercase;
+}
+
+.slot-yellow {
+    background: orange;
+    color: white;
+    text-transform: uppercase;
+}
+
+.slot-gray {
+    background: gray;
+    color: white;
+    text-transform: uppercase;
+}
+
+button {
+    margin: 5px;
+    border: 1px solid #bababa;
+    float: left;
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 34px;
+    margin-right: -1px;
+    margin-top: -1px;
+    padding: 0;
+    text-align: center;
+    width: 60px;
+    height: 60px;
+    text-transform: uppercase;
+}
