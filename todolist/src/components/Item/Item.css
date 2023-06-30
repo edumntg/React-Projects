@@ -1,0 +1,43 @@
+.item {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color:rgb(255, 255, 255);
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+.title {
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 5px;
+}
+
+.description {
+    margin: 5px 5px 5px 5px;
+}
+
+.details {
+    margin: 5px 5px 5px 5px;
+}
+
+.closebtn {
+    margin: 3px 3px 3px 3px;
+}
+
+.delete {
+    float: right;
+    position: relative;
+    border: none;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 500;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    background: none;
+    color: darkred;
+    cursor: pointer;
+}
